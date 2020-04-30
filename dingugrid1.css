@@ -5,9 +5,7 @@
     line-height: 1.6em;
     margin: 0;
     padding: 0;
-        }
-
-
+}
 .container {
 	background-image: url('../images/logo2.jpg');
 	background-position: center;
@@ -15,7 +13,6 @@
 	margin-top: 10px;
 	height: 120px;
 }
-
 .icons {
 	padding-bottom: 70px;
 	display: flex;
@@ -61,11 +58,7 @@ header input {
 }
 
 .header1 {
-	
 	text-align: center;
-
-
-
 }
 
 .header11 {
